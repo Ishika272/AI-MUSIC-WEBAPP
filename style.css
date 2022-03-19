@@ -1,0 +1,16 @@
+.heading{
+    width:100%;
+    font-size:15px ;
+    margin:0px;
+    text-align: center;
+    height: 80px;
+}
+
+canvas{
+    border-color: white;
+    border-width: 3px;
+    background-color:rgb(132, 223, 214);
+    border-style: groove;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
